@@ -4,7 +4,7 @@
   "description": "Sandbox for deploying Ethereum smart contracts to Rinkeby",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "start": "node compile.js"
   },
   "repository": {
