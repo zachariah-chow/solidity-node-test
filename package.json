@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/zachariah-chow/solidity-node-test#readme",
   "dependencies": {
-    "solc": "^0.4.25"
+    "ganache-cli": "^6.10.2",
+    "mocha": "^8.1.3",
+    "solc": "^0.4.25",
+    "web3": "^1.0.0-beta.26"
   }
 }
