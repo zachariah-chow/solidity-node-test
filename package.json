@@ -1,0 +1,22 @@
+{
+  "name": "solidity-node-test",
+  "version": "1.0.0",
+  "description": "Sandbox for deploying Ethereum smart contracts to Rinkeby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachariah-chow/solidity-node-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachariah-chow/solidity-node-test/issues"
+  },
+  "homepage": "https://github.com/zachariah-chow/solidity-node-test#readme",
+  "dependencies": {
+    "solc": "^0.7.1"
+  }
+}
